@@ -1,5 +1,7 @@
-> # Desarrollo del lado servidor: NodeJS, Express y MongoDB
+> # Server-side development: NodeJS, Express and MongoDB
 ---
+* to run the script
+  * node + name_script
 ---
 > ## contact 💬
 
