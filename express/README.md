@@ -4,6 +4,8 @@
   * npm install express-generator -g (If it gives an error when installing, prepend sudo)
 * create our first project:
   * express (project name) --view = pug
+* upgrade the server in development mode
+  * npm install nodemon --save-dev
 
 ---
 > ## contact 💬
