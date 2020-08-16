@@ -14,5 +14,7 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(port, hostname, () => {
-  console.log('the server is running htttp://${hostname}:${port}');
+  /*single quotes are not used in this line,
+  this character must be used (`)*/
+  console.log(`the server is running htttp://${hostname}:${port}`);
 });
