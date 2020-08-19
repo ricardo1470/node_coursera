@@ -1,5 +1,15 @@
 > # Design web pages with Bootstrap 4
 ---
+* npm init
+* lite-server
+  * npm install lite-server --save-dev
+  and add a "script" entry within your project's package.json file:
+  * Inside package.json...
+  "scripts": {
+    "dev": "lite-server"
+  },
+* With the above script entry, you can then start lite-server via:
+  * npm run dev
 ---
 > ## contact 💬
 
