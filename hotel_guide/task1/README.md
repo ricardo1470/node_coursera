@@ -10,6 +10,13 @@
   },
 * With the above script entry, you can then start lite-server via:
   * npm run dev
+
+* install bootstrap
+  * npm install bootstrap
+* install jquery
+  * npm install jquery
+* install popper.js
+  * npm install popper.js
 ---
 > ## contact 💬
 
