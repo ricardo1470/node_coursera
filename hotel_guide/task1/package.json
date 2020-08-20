@@ -1,0 +1,24 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "responsive website design using NPM,",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardo1470/node_coursera/tree/master/hotel_guide/task1"
+  },
+  "author": "ricardo camayo",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
